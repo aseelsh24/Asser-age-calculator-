@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">آسر - حاسبة العمر</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="calculate_to_date">احسب حتى تاريخ</string>
+    <string name="select_date">اختر التاريخ</string>
+    <string name="calculate">احسب</string>
+    <string name="age">العمر</string>
+    <string name="years_months_days">%1$d سنوات، %2$d أشهر، %3$d أيام</string>
+    <string name="total_days">مجموع الأيام</string>
+    <string name="total_hours">مجموع الساعات</string>
+    <string name="total_minutes">مجموع الدقائق</string>
+    <string name="share">مشاركة</string>
+    <string name="about">حول</string>
+    <string name="about_title">حول آسر</string>
+    <string name="version">الإصدار %1$s (%2$d)</string>
+    <string name="about_description">آسر هو حاسبة عمر بسيطة وأنيقة تخبرك بعمرك وصولاً إلى الدقيقة.</string>
+    <string name="error_end_date_before_birth_date">لا يمكن أن يكون تاريخ النهاية قبل تاريخ الميلاد.</string>
+    <string name="result_share_text">عمري هو: %1$s. مجموع الأيام: %2$s، مجموع الساعات: %3$s، مجموع الدقائق: %4$s.</string>
+</resources>

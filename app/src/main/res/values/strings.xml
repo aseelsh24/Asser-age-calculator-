@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Asser - آسر</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="calculate_to_date">Calculate to Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="calculate">Calculate</string>
+    <string name="age">Age</string>
+    <string name="years_months_days">%1$d Years, %2$d Months, %3$d Days</string>
+    <string name="total_days">Total Days</string>
+    <string name="total_hours">Total Hours</string>
+    <string name="total_minutes">Total Minutes</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="about_title">About Asser</string>
+    <string name="version">Version %1$s (%2$d)</string>
+    <string name="about_description">Asser is a simple and elegant age calculator that tells you your age down to the minute.</string>
+    <string name="error_end_date_before_birth_date">End date cannot be before the birth date.</string>
+    <string name="result_share_text">My age is: %1$s. Total Days: %2$s, Total Hours: %3$s, Total Minutes: %4$s.</string>
+</resources>
